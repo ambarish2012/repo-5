@@ -1,0 +1,9 @@
+# Language setting http://docs.shippable.com/ci/languages/node/
+language: none
+
+# using pre-defined build variables
+# full list http://docs.shippable.com/ci/advancedOptions/environmentVariables/
+
+build:
+  ci:
+    - echo "DONE"
