@@ -6,4 +6,4 @@ language: none
 
 build:
   ci:
-    - echo "FINALLY DONE"
+    - echo "FINALLY DONE!"
